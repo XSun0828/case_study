@@ -149,6 +149,9 @@ nyc_airbnb %>%
 
 ## retry leaflet
 
+the interactive maps can only be saved as html file, therefore, not
+execute it here(eval = FALSE).
+
 ``` r
 pal = colorNumeric("viridis", NULL)
 
